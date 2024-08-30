@@ -6,26 +6,29 @@
     <link rel="stylesheet" type = "text/css" href="style.css">
   
  <title>APRENDENDO A PROGRAMAR</title>
- <h1> Quais os principais comandos </h1>
-<h2> Confira a seguir</h2>
 
-    <p> Quando começamos ou terminamos um documento usamos o HTML </p>
-    <p> Agora uma boa maneira de organizar as informações sem exibi-las é o HEAD </p>
-    <p> Código responsavel pela parte visível do corpo do documento, o esqueleto, BODY </p>
-    <p> Identificar e nomear um título é essencial, por isso usamos o TITLE </p>
-    <p> OL responsavel por cria uma lista ordenada </p>
-    <p> UL responsavel por cria uma lista sem ordem</p>
-    <p> LI responsavel por identifica o itens de uma lista </p>
-    <p>O uso de imagens é de extrema importancia e para isso utilizamos IMG </p>
-    <p> Comandos como h1, h2, h3, h4, h5 e h6 são usados para nomear títulos e subtítulos</p>
-    <p> P responsavel por delimitar os parágrafos </p>
-    <p> STRONG responsavel por deixar o texto em negrito, assim destando informações uteis </p>
-    <p> O comando A liga links e conteudos ao documento HTML, servindo de auxilio para o navegante </p>
+ <h1> Aqui você vera quais os principais comandos para se criar um simples site: </h1>
 
-    <h2> Tradução dos comandos </h2>
-    <p> html; Sigla para HyperText Markup Language </p>
-    <p> head; Cabeçalho/Cabeça</p>
-    <p> body; Corpo</p>
-    <p> title; Título</p>
-    <p> strong; Forte </p>
-    <P> img; Sigla para IMAGE </p>
+<h2> COMANDOS BASE~> </h2>
+    <p> html; Linguagem de Marcação de HiperTexto, define o significado e a estrutura do conteúdo da web.</p>
+    <p> head; Cabeçalho, providencia informações gerais sobre o documento, incluindo seu título e links para scripts e folhas de estilos. </p>
+    <p> body; Corpo, contém o corpo de um documento HTML, que é exibido pelo navegador em sua janela, ou seja, todo o conteúdo visível do site. </p>
+    <p> title; Título, define o título do documento, mostrado na barra de título de um navegador ou na aba da página. </p>
+    <p> strong; Forte,  utilizado em conteúdos que são de "grande importância", incluindo coisas de urgentes. </p>
+    <P> img; Imagem, está tag informa ao navegador onde a imagem deve ser localizada no seu site. </p>
+
+<h3> PASSO A PASSO~> </h3>
+    <p> Quando começamos ou terminamos um documento usamos o HTML, código base </p>
+    <p> Agora uma boa maneira de organizar as informações sem exibi-las de modo que gere poluição vísual é o HEAD</p>
+    <p> Mas não se esqueça do código responsavel pelo visível do seu documento, o esqueleto que de fato sustenta o programa, BODY </p>
+    <p> Logo, identificar e nomear um título é essencial tanto para a organização, quanto para a otimização, por isso usamos o TITLE </p>
+    <p> A principo temos o OL, comando responsavel por cria uma lista ordenada, desse modo potencialisamos o site, trazendo harmonia </p>
+    <p> O UL por outro lado é responsavel por cria uma lista sem ordem </p>
+    <p> E nesse meio, o LI é essencial para nos ajudar a identificar os itens de uma lista ordenada ou não ordenada </p>
+    <p> O uso de imagens é de extrema importancia e para isso utilizamos IMG </p>
+    <p> Agora lembre-se disso, comandos como h1, h2, h3, h4, h5 e h6 são importantes para nomear títulos e subtítulos, sem eles não há organização </p>
+    <p> Depois, com seu titulo definido, use P para delimitar os parágrafos e começar a expor sua ideia ou seu projeto </p>
+    <p> No decorrer, caso queira trazer mais atenção para uma palavra ou frase, use o STRONG, ele deixa o texto em negrito, assim destacando informações uteis </p>
+    <p> E por fim, o comando A que conecta links e conteudos no seu HTML, servindo de auxilio para por mais informações, separabdo-as como o desejado </p>
+
+   
