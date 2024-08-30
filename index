@@ -5,22 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type = "text/css" href="style.css">
   
- <title>CRIANDO UM SITE </title>
- <h1> Quais comandos utilizaremos?</h1>
-<h2> Confira os principais comandos a seguir</h2>
+ <title>APRENDENDO A PROGRAMAR</title>
+ <h1> Quais os principais comandos </h1>
+<h2> Confira a seguir</h2>
 
-    <p> Para declarar início e fim de um documento, usamos o HTML </p>
-    <p> Para armazenar informações gerais sem exibir, usamos o HEAD </p>
-    <p> Para identificarmos a parte visível do corpo do documento, usamos BODY </p>
-    <p> Para identificarmos e nomearmos um título, usamos TITLE </p>
-    <p> O comando OL cria uma lista ordenada </p>
-    <p> O comando UL cria uma lista sem ordem</p>
-    <p> O comando LI identifica o itens de uma lista </p>
-    <p>Para adicionarmos imagens, utilizamos IMG </p>
-    <p> Os comandos h1, h2, h3, h4, h5 e h6 são utilizados para titular títulos e subtítulos no documento</p>
-    <p> o P tem a função de marcar parágrafos </p>
-    <p>O comando STRONG é usado para deixar o texto em negrito </p>
-    <p> O comando A liga links e conteudos ao documento HTML</p>
+    <p> Quando começamos ou terminamos um documento usamos o HTML </p>
+    <p> Agora uma boa maneira de organizar as informações sem exibi-las é o HEAD </p>
+    <p> Código responsavel pela parte visível do corpo do documento, o esqueleto, BODY </p>
+    <p> Identificar e nomear um título é essencial, por isso usamos o TITLE </p>
+    <p> OL responsavel por cria uma lista ordenada </p>
+    <p> UL responsavel por cria uma lista sem ordem</p>
+    <p> LI responsavel por identifica o itens de uma lista </p>
+    <p>O uso de imagens é de extrema importancia e para isso utilizamos IMG </p>
+    <p> Comandos como h1, h2, h3, h4, h5 e h6 são usados para nomear títulos e subtítulos</p>
+    <p> P responsavel por delimitar os parágrafos </p>
+    <p> STRONG responsavel por deixar o texto em negrito, assim destando informações uteis </p>
+    <p> O comando A liga links e conteudos ao documento HTML, servindo de auxilio para o navegante </p>
 
     <h2> Tradução dos comandos </h2>
     <p> html; Sigla para HyperText Markup Language </p>
