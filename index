@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type = "text/css" href="style.css">
+  
+ <title>CRIANDO UM SITE </title>
+ <h1> Quais comandos utilizaremos?</h1>
+<h2> Confira os principais comandos a seguir</h2>
+
+    <p> Para declarar início e fim de um documento, usamos o HTML </p>
+    <p> Para armazenar informações gerais sem exibir, usamos o HEAD </p>
+    <p> Para identificarmos a parte visível do corpo do documento, usamos BODY </p>
+    <p> Para identificarmos e nomearmos um título, usamos TITLE </p>
+    <p> O comando OL cria uma lista ordenada </p>
+    <p> O comando UL cria uma lista sem ordem</p>
+    <p> O comando LI identifica o itens de uma lista </p>
+    <p>Para adicionarmos imagens, utilizamos IMG </p>
+    <p> Os comandos h1, h2, h3, h4, h5 e h6 são utilizados para titular títulos e subtítulos no documento</p>
+    <p> o P tem a função de marcar parágrafos </p>
+    <p>O comando STRONG é usado para deixar o texto em negrito </p>
+    <p> O comando A liga links e conteudos ao documento HTML</p>
+
+    <h2> Tradução dos comandos </h2>
+    <p> html; Sigla para HyperText Markup Language </p>
+    <p> head; Cabeçalho/Cabeça</p>
+    <p> body; Corpo</p>
+    <p> title; Título</p>
+    <p> strong; Forte </p>
+    <P> img; Sigla para IMAGE </p>
